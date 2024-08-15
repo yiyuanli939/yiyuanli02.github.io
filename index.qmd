@@ -4,6 +4,8 @@ title: "Welcome to My Website"
 
 ## Hello, World!
 
+My name is Yiyuan Li (Chris). Now I'm a student in Reed College. 
+
 This is the homepage of my Quarto website. Here's what you can find here:
 
 - Information about me
