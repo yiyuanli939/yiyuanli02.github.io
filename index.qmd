@@ -1,0 +1,13 @@
+---
+title: "Welcome to My Website"
+---
+
+## Hello, World!
+
+This is the homepage of my Quarto website. Here's what you can find here:
+
+- Information about me
+- My projects and interests
+- Blog posts and updates
+
+Feel free to explore using the navigation menu above!
