@@ -1,17 +1,40 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs  # This is where the rendered website will be saved
 
 website:
   title: "Yiyuan Li (Chris)"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Home  # This will appear in the navigation bar
+      - about.qmd   # This file should exist in your project root
+      - href: blog/index.qmd
+        text: Blog  # This adds a link to your blog in the navigation
+
+  # Sidebar configuration for the blog
+  sidebar:
+    - title: "Blog"
+      style: "docked"
+      background: light
+      contents:
+        - blog/index.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: cosmo  # You can change this to other supported themes
+    css: styles.css  # Custom CSS file for additional styling
+    toc: true  # Enables table of contents for pages
+
+# Blog-specific configurations
+blog:
+  # Main title for your blog section
+  title: "My Blog"
+  listing:
+    contents: blog  # Directory containing blog posts
+    sort: "date desc"  # Sort posts by date, most recent first
+    type: default
+    categories: true  # Enable categorization of posts
+    sort-ui: false  # Disable user interface for sorting
+    filter-ui: false  # Disable user interface for filtering
+  feed: true  # Enables RSS feed for the blog

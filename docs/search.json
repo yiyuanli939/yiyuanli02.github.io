@@ -35,6 +35,20 @@
     "text": "Get in Touch\n\nEmail: [your email]\nLinkedIn: [your LinkedIn profile]\nGitHub: [your GitHub profile]"
   },
   {
+    "objectID": "blog/posts/first-post.html",
+    "href": "blog/posts/first-post.html",
+    "title": "First Blog!",
+    "section": "",
+    "text": "Here is my first blog."
+  },
+  {
+    "objectID": "blog/posts/first-post.html#welcome-to-my-blog",
+    "href": "blog/posts/first-post.html#welcome-to-my-blog",
+    "title": "First Blog!",
+    "section": "Welcome to my blog",
+    "text": "Welcome to my blog\nToday, I created my first blog under the support of quarto! I’m so excited to share my thoughts and ideas with you. I hope you enjoy reading my posts and find them helpful."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Website",
@@ -47,5 +61,16 @@
     "title": "Welcome to My Website",
     "section": "",
     "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College.\nThis is the homepage of my Quarto website. Here’s what you can find here:\n\nInformation about me\nMy projects and interests\nBlog posts and updates\n\nFeel free to explore using the navigation menu above!"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "First Blog!\n\n\n\n\n\n\nnews\n\n\nupdates\n\n\n\nThis is a short description of my first blog post.\n\n\n\n\n\nAug 14, 2024\n\n\nYiyuan Li\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog",
+      "My Blog"
+    ]
   }
 ]
