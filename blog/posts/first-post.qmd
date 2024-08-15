@@ -1,13 +1,14 @@
 ---
-title: "My First Blog Post"
+title: "First Blog!"
 description: "This is a short description of my first blog post."
 author: "Yiyuan Li"
-date: "2023-08-14"
-categories: [news, code, analysis]
+date: "2024-08-14"
+categories: [news,updates]
 ---
 
-This is the content of my first blog post.
+Here is my first blog.
 
 ## Welcome to my blog
 
-Here's where you can start writing your blog post content.
+Today, I created my first blog under the support of quarto! I'm so excited to share my thoughts and ideas with you. I hope you enjoy reading my posts and find them helpful.
+
