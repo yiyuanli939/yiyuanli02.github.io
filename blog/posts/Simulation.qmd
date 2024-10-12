@@ -4,6 +4,21 @@ description: "This tends to be a review on Simulation"
 author: "Yiyuan Li"
 date: "2024-09-27"
 categories: [statistics]
+format:
+  html:
+    code-fold: true
+    code-tools: true
 ---
 
 This tends to be a review on how to do simulation. 
+
+```{r}
+#| code-fold: true
+#| code-summary: "Code"
+
+# Your R code here
+
+# Here is a test r-code 
+1 + 1
+```
+

@@ -53,21 +53,28 @@
     "href": "index.html",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College.\nThis is the homepage of my Quarto website. Here’s what you can find here:\n\nInformation about me\nMy projects and interests\nBlog posts and updates\n\nFeel free to explore using the navigation menu above!"
+    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College studying mathematics and statistics as major and computer science as minor.\nI decided to change my academic interest to statistics and computer science on March 14, 2023, the day GPT-4 launched, after studying the humanities for three years in undergraduate. Prior to this shift, I worked at the intersection of political theory and the history of science, with a focus on Newtonian and Darwinian political metaphors in the nineteenth century and the rise of quantification in mid-twentieth-century social sciences.\n[Contents]\nThere is one question that I truly concern: how can we human-being flourish? Being a researcher in this specific time under history,a more concrete question emerges:\nHow does a Liberal Arts education in the techno-era possible?"
   },
   {
-    "objectID": "index.html#hello-world",
-    "href": "index.html#hello-world",
+    "objectID": "index.html#personl-interduction",
+    "href": "index.html#personl-interduction",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College.\nThis is the homepage of my Quarto website. Here’s what you can find here:\n\nInformation about me\nMy projects and interests\nBlog posts and updates\n\nFeel free to explore using the navigation menu above!"
+    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College studying mathematics and statistics as major and computer science as minor.\nI decided to change my academic interest to statistics and computer science on March 14, 2023, the day GPT-4 launched, after studying the humanities for three years in undergraduate. Prior to this shift, I worked at the intersection of political theory and the history of science, with a focus on Newtonian and Darwinian political metaphors in the nineteenth century and the rise of quantification in mid-twentieth-century social sciences.\n[Contents]\nThere is one question that I truly concern: how can we human-being flourish? Being a researcher in this specific time under history,a more concrete question emerges:\nHow does a Liberal Arts education in the techno-era possible?"
+  },
+  {
+    "objectID": "blog/posts/Simulation.html",
+    "href": "blog/posts/Simulation.html",
+    "title": "A Small Review on Simulation in Statistics",
+    "section": "",
+    "text": "This tends to be a review on how to do simulation.\n\n\nCode\n# Your R code here\n\n# Here is a test r-code \n1 + 1\n\n\n[1] 2"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "My Blog",
     "section": "",
-    "text": "First Blog!\n\n\n\n\n\n\nnews\n\n\nupdates\n\n\n\nThis is a short description of my first blog post.\n\n\n\n\n\nAug 14, 2024\n\n\nYiyuan Li\n\n\n\n\n\n\nNo matching items",
+    "text": "A Small Review on Simulation in Statistics\n\n\n\n\n\n\nstatistics\n\n\n\nThis tends to be a review on Simulation\n\n\n\n\n\nSep 27, 2024\n\n\nYiyuan Li\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Blog!\n\n\n\n\n\n\nnews\n\n\nupdates\n\n\n\nThis is a short description of my first blog post.\n\n\n\n\n\nAug 14, 2024\n\n\nYiyuan Li\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Blog",
       "My Blog"

@@ -2,6 +2,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/Simulation.html",
       "/blog/posts/first-post.html"
     ]
   }
