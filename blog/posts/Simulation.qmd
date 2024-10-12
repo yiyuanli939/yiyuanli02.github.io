@@ -1,0 +1,9 @@
+---
+title: "A Small Review on Simulation in Statistics"
+description: "This tends to be a review on Simulation"
+author: "Yiyuan Li"
+date: "2024-09-27"
+categories: [statistics]
+---
+
+This tends to be a review on how to do simulation. 
