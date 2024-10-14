@@ -1,0 +1,11 @@
+---
+title: "Liner "
+description: "This tends to be a review on Simulation"
+author: "Yiyuan Li"
+date: "2024-09-27"
+categories: [statistics，causal inference]
+format:
+  html:
+    code-fold: false
+    code-tools: false
+---
