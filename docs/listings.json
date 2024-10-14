@@ -2,7 +2,9 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/Linear_Regression_in_Causal.html",
       "/blog/posts/Simulation.html",
+      "/blog/posts/Sorting_Algorithm.html",
       "/blog/posts/first-post.html"
     ]
   }
