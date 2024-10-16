@@ -2,37 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Contact",
     "section": "",
-    "text": "Hello! I’m [Your Name], and this is my personal website."
-  },
-  {
-    "objectID": "about.html#who-am-i",
-    "href": "about.html#who-am-i",
-    "title": "About Me",
-    "section": "",
-    "text": "Hello! I’m [Your Name], and this is my personal website."
-  },
-  {
-    "objectID": "about.html#my-background",
-    "href": "about.html#my-background",
-    "title": "About Me",
-    "section": "My Background",
-    "text": "My Background\n[Briefly describe your education, work experience, or personal interests]"
-  },
-  {
-    "objectID": "about.html#what-i-do",
-    "href": "about.html#what-i-do",
-    "title": "About Me",
-    "section": "What I Do",
-    "text": "What I Do\n[Talk about your current work, projects, or hobbies]"
+    "text": "Email: yiyuanli@reed.edu\nGitHub: yiyuanli939"
   },
   {
     "objectID": "about.html#get-in-touch",
     "href": "about.html#get-in-touch",
-    "title": "About Me",
-    "section": "Get in Touch",
-    "text": "Get in Touch\n\nEmail: [your email]\nLinkedIn: [your LinkedIn profile]\nGitHub: [your GitHub profile]"
+    "title": "Contact",
+    "section": "",
+    "text": "Email: yiyuanli@reed.edu\nGitHub: yiyuanli939"
   },
   {
     "objectID": "blog/posts/10_Necessary_Skills.html",
@@ -67,14 +46,14 @@
     "href": "index.html",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College studying mathematics and statistics as major and computer science as minor.\nI decided to change my academic interest to statistics and computer science on March 14, 2023, the day GPT-4 launched, after studying the humanities for three years in undergraduate. Prior to this shift, I worked at the intersection of political theory and the history of science, with a focus on Newtonian and Darwinian political metaphors in the nineteenth century and the rise of quantification in mid-twentieth-century social sciences.\n[Contents]\nThere is one question that I truly concern: how can we human-being flourish? Being a researcher in this specific time under history,a more concrete question emerges:\nHow does a Liberal Arts education in the techno-era possible?"
+    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College studying mathematics and statistics as major and computer science as minor.\nI decided to change my academic interest to statistics and computer science on March 14, 2023, the day GPT-4 launched, after studying the humanities for three years in undergraduate. Prior to this shift, I worked at the intersection of political theory and the history of science, with a focus on Newtonian and Darwinian political metaphors in the nineteenth century and the rise of quantification in mid-twentieth-century social sciences.\nThere is one question that I truly concern: how can we human-being flourish?"
   },
   {
     "objectID": "index.html#personl-interduction",
     "href": "index.html#personl-interduction",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College studying mathematics and statistics as major and computer science as minor.\nI decided to change my academic interest to statistics and computer science on March 14, 2023, the day GPT-4 launched, after studying the humanities for three years in undergraduate. Prior to this shift, I worked at the intersection of political theory and the history of science, with a focus on Newtonian and Darwinian political metaphors in the nineteenth century and the rise of quantification in mid-twentieth-century social sciences.\n[Contents]\nThere is one question that I truly concern: how can we human-being flourish? Being a researcher in this specific time under history,a more concrete question emerges:\nHow does a Liberal Arts education in the techno-era possible?"
+    "text": "My name is Yiyuan Li (Chris). Now I’m a student in Reed College studying mathematics and statistics as major and computer science as minor.\nI decided to change my academic interest to statistics and computer science on March 14, 2023, the day GPT-4 launched, after studying the humanities for three years in undergraduate. Prior to this shift, I worked at the intersection of political theory and the history of science, with a focus on Newtonian and Darwinian political metaphors in the nineteenth century and the rise of quantification in mid-twentieth-century social sciences.\nThere is one question that I truly concern: how can we human-being flourish?"
   },
   {
     "objectID": "blog/posts/Simulation.html",
