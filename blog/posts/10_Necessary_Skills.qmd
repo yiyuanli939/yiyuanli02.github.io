@@ -1,0 +1,34 @@
+---
+title: "Ten Necessary Skills in Algorithm and Data Structure"
+description: "Review of Necessary Skills for Algorithm and Data Structure"
+author: "Yiyuan Li"
+date: "2024-10-14"
+categories: [Algorithm & Data Structure]
+format:
+  html:
+    code-fold: true
+    code-tools: true
+---
+
+## Skill List
+
+1. I can compare/order asymptotic running times.
+
+2. I can find a concise big-O bound for a given function.
+
+3. I can analyze the running time of simple algorithms in the word-RAM model.
+
+4. I can solve recurrences.
+
+5. I can choose the most efficient data structure for a given problem/scenario.
+
+6. I can extend (i.e., implement a new operation for) a data structure I have seen before.
+
+7. I can illustrate the operation of insertion sort, mergesort, quicksort, and heapsort.
+
+8. I can illustrate the operation of fundamental graph algorithms (like BFS, DFS, and Bellman-Ford).
+
+9. I can determine the running time of a graph algorithm using either of the two standard graph representations.
+
+
+10. I can find a counterexample for a flawed greedy algorithm.

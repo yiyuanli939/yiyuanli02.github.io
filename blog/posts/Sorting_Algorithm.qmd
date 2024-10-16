@@ -3,7 +3,7 @@ title: "Sorting Algorithm: A Short List"
 description: "A Short Review on All Algorithm Learned in CSCI 382"
 author: "Yiyuan Li"
 date: "2024-09-27"
-categories: [statistics]
+categories: [Algorithm & Data Structure]
 format:
   html:
     code-fold: true
