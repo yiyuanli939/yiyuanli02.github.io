@@ -1,20 +1,8 @@
 ---
-title: "About Me"
+title: "Contact"
 ---
-
-## Who Am I?
-
-Hello! I'm [Your Name], and this is my personal website.
-
-## My Background
-
-[Briefly describe your education, work experience, or personal interests]
-
-## What I Do
-[Talk about your current work, projects, or hobbies]
 
 ## Get in Touch
 
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile]
-- GitHub: [your GitHub profile]
+- Email: yiyuanli@reed.edu
+- GitHub: yiyuanli939
